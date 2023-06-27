@@ -11,7 +11,7 @@
 - 💬 Ask me about Termux, Android, Custom roms,
 - 📫 How to reach me: 
 - Instagram:rajbhx(my personal account)
-- Instagram:[@fakerajbhx](https://www.instagram.com/fakerajbhx/)
+- Instagram:[@fakerajbhx](https://www.instagram.com/fakerajbhx/)Business Account 
 - Twitter:[@rajbhx](https://twitter.com/rajbhx?s=09)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I am not programmer
