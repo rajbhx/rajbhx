@@ -20,6 +20,6 @@ Here's a little bit about me:
 
 Feel free to connect with me on Instagram or Twitter. Let's exchange ideas, collaborate, and explore the fascinating world of technology together.
 
-[![Website](https://img.shields.io/website?label=rajbhx.com&style=for-the-badge&url=https%3A%2F%2Fwww.rajbhx.com)](https://jarvisstaraq.blogspot.com)
+[![Website](https://img.shields.io/website?label=jarvisstaraq.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fwww.jarvisstaraq.blogspot.com)](https://jarvisstaraq.blogspot.com)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC_fakerajbhx?label=YouTube%20Channel&style=for-the-badge)](https://www.youtube.com/channel/UC_fakerajbhx)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajbhx?color=1DA1F2&label=Twitter&style=for-the-badge)](https://twitter.com/rajbhx?s=09)
