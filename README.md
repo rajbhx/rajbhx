@@ -12,7 +12,7 @@ Here's a little bit about me:
 - 🤔 I'm seeking help with YouTube, exploring ways to enhance my channel: [YouTube Channel](https://www.youtube.com/channel/UC_fakerajbhx)
 - 💬 Ask me about Termux, Android, Custom ROMs, or anything you're curious about.
 - 📫 You can reach me on Instagram:
-  - Personal Account: [rajbhx](https://www.instagram.com/rajbhx/)
+ <!-- - Personal Account: [rajbhx](https://www.instagram.com/rajbhx/) -->
   - Business Account: [@fakerajbhx](https://www.instagram.com/fakerajbhx/)
 - You can also find me on Twitter: [@rajbhx](https://twitter.com/rajbhx?s=09)
 - 😄 Pronouns: He/him/his
