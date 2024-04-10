@@ -1,4 +1,4 @@
-# Hi there, I'm RAJ RAJBHAR aka rajbhx! 👋
+# Hi there, I'm Jarvisoo aka rajbhx! 👋
 
 <!--
 **rajbhx/rajbhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
